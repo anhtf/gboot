@@ -1,0 +1,3 @@
+[submodule "GCU"]
+	path = GCU
+	url = https://github.com/anhtf/gboot.git
